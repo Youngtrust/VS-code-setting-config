@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 18,
+  "editor.formatOnSave": true,
+  "workbench.colorCustomizations": {
+    "terminal.foreground": "#11c958",
+    "terminal.fontSize": 16,
+    "terminal.ansiBlack": "#cccccc"
+    // "terminal.background": "#383737"
+  }
+}
