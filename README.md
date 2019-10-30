@@ -3,7 +3,8 @@ VS code setting config
 
 I am using Visual Studio Code  as our Front-End IDE - this is a note place where I can record some settings
 
-3.Before using we have some recommended setup: 
+
+Before using we have some recommended setup: 
 vs code extensions: 
 
 ES7 React/Redux/GraphQL/React-Native snippet
@@ -11,7 +12,7 @@ Prettier-Code formatter
 Simple React Snippets
 
 
-4.Config vscode settings
+Config vscode settings
 
 
     by using "cmd+shift+p " in keyboard  to open the searchbar, then typing settings
@@ -22,8 +23,7 @@ Setting.json in the folder
 
 
 
-
-5.start & run front-end locally 
+start & run front-end locally 
 
 
 check if you have download npm in your computer:
